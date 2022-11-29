@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6cf6df30-ea4d-4e5a-9271-f8514eafe15f/AppServices/subscriptions/6cf6df30-ea4d-4e5a-9271-f8514eafe15f/resourceGroups/RG-k100603-appsrvtest/providers/Microsoft.Web/sites/appdotnet7test03",
+    "appService.deploySubpath": "bin\\Publish"
+}

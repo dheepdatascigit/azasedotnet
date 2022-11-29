@@ -1,0 +1,7 @@
+C:\Users\dheep\OneDrive - Cloud Ops\docs\scripts\azure\azasedotnet\bin\Publish\azasedotnet.exe
+C:\Users\dheep\OneDrive - Cloud Ops\docs\scripts\azure\azasedotnet\bin\Publish\appsettings.Development.json
+C:\Users\dheep\OneDrive - Cloud Ops\docs\scripts\azure\azasedotnet\bin\Publish\appsettings.json
+C:\Users\dheep\OneDrive - Cloud Ops\docs\scripts\azure\azasedotnet\bin\Publish\azasedotnet.dll
+C:\Users\dheep\OneDrive - Cloud Ops\docs\scripts\azure\azasedotnet\bin\Publish\azasedotnet.deps.json
+C:\Users\dheep\OneDrive - Cloud Ops\docs\scripts\azure\azasedotnet\bin\Publish\azasedotnet.runtimeconfig.json
+C:\Users\dheep\OneDrive - Cloud Ops\docs\scripts\azure\azasedotnet\bin\Publish\azasedotnet.pdb
